@@ -10,7 +10,7 @@ let speed = 100;
       <div class="popup-profile">
         <img src="profile.jpg" alt="Piyush Kumar" class="profile-pic" />
         <div class="profile-info">
-          <p>I am Piyush Kumar, a self-taught software engineer and <b>Author</b> with over 5 years of experience in software development. I have authored 10 books that have been published globally. I am passionate about coding, writing, and sharing knowledge. I actively contribute to open-source platforms and enjoy simplifying complex ideas into concepts that are easy to understand.I enjoy collaborating with creative individuals who are driven to build innovative and out-of-the-box solutions.</p>
+          <p>I am Piyush Kumar, a self-taught software engineer and <b>Author</b> with over 5 years of experience in software development. I have authored 10 books that have been published globally. I am passionate about coding, writing, and sharing knowledge. I actively contribute to open-source platforms and enjoy simplifying complex ideas into concepts that are easy to understand.</p>
         </div>
       </div>
     `
