@@ -39,10 +39,7 @@ let speed = 100;
         category: "Testing & Tools",
         items: ["Jest", "React Testing Library", "Chrome DevTools", "Vite", "npm"]
       },
-      {
-        category: "DevOps",
-        items: ["Git & GitHub", "Docker", "Render"]
-      },
+    
      
     ].map(group => `
       <div class="skill-group">
