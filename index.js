@@ -65,13 +65,13 @@ let speed = 100;
         
       },
       {
-        degree: "Certified Frontend Developer",
+        degree: "Meta Certified Frontend Developer",
         field:'Frontend Development',
         university:"Meta",
         year: "2026",
       },
       {
-        degree: " Certified Cloud Technical Essentials",
+        degree: " Cloud Technical Essentials",
         field:"AWS",
         university:'Amazon',
         year:"2026",
