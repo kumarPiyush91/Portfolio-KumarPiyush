@@ -25,19 +25,16 @@ let speed = 100;
       },
       {
         category: "State & Data",
-        items: ["Redux", "Context API", "REST API", "GraphQL"]
+        items: ["Redux", "Context API", "REST API"]
       },
-      {
-        category: "Backend & Database",
-        items: ["Node.js", "Express.js", "MongoDB", "MySQL"]
-      },
+     
       {
         category: "Performance & Accessibility",
         items: ["WCAG Guidelines", "Lighthouse Audits", "Code Splitting", "Lazy Loading"]
       },
       {
-        category: "Testing & Tools",
-        items: ["Jest", "React Testing Library", "Chrome DevTools", "Vite", "npm"]
+        category: "Tools",
+        items: ["Git", "Vite", "CI/CD", "AWS", "Chrome DevTools", "npm"]
       },
     
      
@@ -66,6 +63,18 @@ let speed = 100;
         university: "Vinoba Bhave University, India",
         year: "2016 – 2019",
         
+      },
+      {
+        degree: "Certified Frontend Developer",
+        field:'Frontend Development',
+        university:"Meta",
+        year: "2026",
+      },
+      {
+        degree: " Certified Cloud Technical Essentials",
+        field:"AWS",
+        university:'Amazon',
+        year:"2026",
       }
     ].map(edu => `
       <div class="edu-item">
@@ -133,9 +142,9 @@ let speed = 100;
         desc: "npm Package"
       },
       {
-        title: "BreakOut",
-        url: "https://break-out01.netlify.app/",
-        desc: "Nintendo Brick Breaker Replica"
+        title: "mamanourish",
+        url: "https://mamanourish.netlify.app/",
+        desc: "Prenatal healthcare platform "
       }
     ].map((proj, i) => `
       <div class="proj-item">
