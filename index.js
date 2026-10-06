@@ -142,7 +142,7 @@ let speed = 100;
         desc: "npm Package"
       },
       {
-        title: "mamanourish",
+        title: "Mamanourish",
         url: "https://mamanourish.netlify.app/",
         desc: "Prenatal healthcare platform "
       }
