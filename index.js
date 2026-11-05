@@ -127,8 +127,8 @@ let speed = 100;
         desc: "With Secure PayPal payment integration"
       },
       {
-        title: "Laughy",
-        url: "https://addons.mozilla.org/en-US/firefox/addon/laughy/",
+        title: "TimeZone Converter",
+        url: "https://addons.mozilla.org/en-US/firefox/addon/time-zone-converter-tool/",
         desc: "Firefox AddOn"
       },
       {
@@ -142,9 +142,9 @@ let speed = 100;
         desc: "npm Package"
       },
       {
-        title: "Mamanourish",
-        url: "https://mamanourish.netlify.app/",
-        desc: "Prenatal healthcare platform "
+        title: "ResumeMatch",
+        url: "https://resumematch123.netlify.app/",
+        desc: "AI-Powered Job Matching"
       }
     ].map((proj, i) => `
       <div class="proj-item">
